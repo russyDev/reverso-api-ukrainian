@@ -17,9 +17,10 @@ const compatibility = {
                 'russian',
                 'turkish',
                 'chinese',
-                'english'
+                'english',
             ],
-        },{
+        },
+        {
             name: 'english',
             compatible_with: [
                 'arabic',
@@ -36,7 +37,7 @@ const compatibility = {
                 'russian',
                 'turkish',
                 'chinese',
-                'ukrainian'
+                'ukrainian',
             ],
         },
         {

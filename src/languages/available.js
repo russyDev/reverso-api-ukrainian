@@ -15,7 +15,7 @@ const available = {
         'turkish',
         'chinese',
         'english',
-        'ukrainian'
+        'ukrainian',
     ],
     spell: ['english', 'french'],
     synonyms: [
@@ -26,7 +26,7 @@ const available = {
         'french',
         'polish',
         'italian',
-        'ukrainian'
+        'ukrainian',
     ],
     translation: [
         'arabic',

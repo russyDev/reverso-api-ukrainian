@@ -1,6 +1,7 @@
 const Reverso = require('../src/reverso.js')
 const reverso = new Reverso()
 
+/*
 reverso.getContext('meet me halfway', 'english', 'russian', (err, response) => {
     if (err) throw new Error(err.message)
 
@@ -18,11 +19,12 @@ reverso.getSynonyms('dzień dobry', 'polish', (err, response) => {
 
     console.log(response)
 })
+*/
 
 reverso.getTranslation(
     'how is going?',
     'english',
-    'chinese',
+    'ukrainian',
     (err, response) => {
         if (err) throw new Error(err.message)
 

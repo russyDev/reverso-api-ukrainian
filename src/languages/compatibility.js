@@ -1,6 +1,25 @@
 const compatibility = {
     context: [
         {
+            name: 'ukrainian',
+            compatible_with: [
+                'arabic',
+                'german',
+                'spanish',
+                'french',
+                'hebrew',
+                'italian',
+                'japanese',
+                'dutch',
+                'polish',
+                'portuguese',
+                'romanian',
+                'russian',
+                'turkish',
+                'chinese',
+                'english'
+            ],
+        },{
             name: 'english',
             compatible_with: [
                 'arabic',
@@ -17,6 +36,7 @@ const compatibility = {
                 'russian',
                 'turkish',
                 'chinese',
+                'ukrainian'
             ],
         },
         {
@@ -31,6 +51,7 @@ const compatibility = {
                 'portuguese',
                 'russian',
                 'turkish',
+                'ukrainian',
             ],
         },
         {
@@ -49,6 +70,7 @@ const compatibility = {
                 'romanian',
                 'russian',
                 'turkish',
+                'ukrainian',
             ],
         },
         {
@@ -68,6 +90,7 @@ const compatibility = {
                 'russian',
                 'turkish',
                 'chinese',
+                'ukrainian',
             ],
         },
         {
@@ -87,6 +110,7 @@ const compatibility = {
                 'russian',
                 'turkish',
                 'chinese',
+                'ukrainian',
             ],
         },
         {
@@ -101,6 +125,7 @@ const compatibility = {
                 'dutch',
                 'portuguese',
                 'russian',
+                'ukrainian',
             ],
         },
         {
@@ -120,6 +145,7 @@ const compatibility = {
                 'russian',
                 'turkish',
                 'chinese',
+                'ukrainian',
             ],
         },
         {
@@ -132,6 +158,7 @@ const compatibility = {
                 'english',
                 'portuguese',
                 'russian',
+                'ukrainian',
             ],
         },
         {
@@ -145,6 +172,7 @@ const compatibility = {
                 'english',
                 'portuguese',
                 'russian',
+                'ukrainian',
             ],
         },
         {
@@ -155,6 +183,7 @@ const compatibility = {
                 'french',
                 'italian',
                 'english',
+                'ukrainian',
             ],
         },
         {
@@ -171,6 +200,7 @@ const compatibility = {
                 'english',
                 'russian',
                 'turkish',
+                'ukrainian',
             ],
         },
         {
@@ -182,6 +212,7 @@ const compatibility = {
                 'italian',
                 'english',
                 'turkish',
+                'ukrainian',
             ],
         },
         {
@@ -197,6 +228,7 @@ const compatibility = {
                 'dutch',
                 'portuguese',
                 'english',
+                'ukrainian',
             ],
         },
         {
@@ -210,6 +242,7 @@ const compatibility = {
                 'portuguese',
                 'romanian',
                 'english',
+                'ukrainian',
             ],
         },
         {
